@@ -162,6 +162,16 @@
         <type>Checkbox</type>
     </fields>
     <fields>
+        <fullName>New_Demo__c</fullName>
+        <externalId>false</externalId>
+        <label>New Demo</label>
+        <length>25</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>completion_date__c</fullName>
         <complianceGroup>HIPAA</complianceGroup>
         <externalId>false</externalId>
@@ -205,7 +215,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>AR17trainings</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <validationRules>
         <fullName>Validationrule_check1</fullName>
